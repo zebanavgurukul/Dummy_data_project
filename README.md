@@ -4,7 +4,7 @@
 
  POST
 
-## In this priject i used 
+## In this project i used 
 
  MVC(Model view Controler)
 
