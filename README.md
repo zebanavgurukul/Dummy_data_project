@@ -1,14 +1,14 @@
 # Dummy_data_project
 
-## In this project i used crud method
+### In this project i used crud method
 
- POST
+ 1. POST
 
-## In this project i used 
+### In this project i used 
 
  MVC(Model view Controler)
 
-## In this project i used node.js
+### In this project i used node.js
 
 1. Express.js
 2. mySql Database
