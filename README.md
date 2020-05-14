@@ -2,11 +2,11 @@
 
 ## In this project i used crud method
 
-### POST
+ POST
 
 ## In this priject i used 
 
-### MVC(Model view Controler)
+ MVC(Model view Controler)
 
 ## In this project i used node.js
 
