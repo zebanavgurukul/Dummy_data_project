@@ -13,8 +13,9 @@ It will save This amount of data in MYSQl database and It response will be save 
 
 ### features
 ### This project is made on the node js framework so some installation you have to made for smooth running of the project : open console run the commands
-1. Express.js
-2. mySql Database
-3. Body Parser
-4. faker
-5. knex
+1. npm install express --save #Express.js
+2. npm install mysql #mySql Database
+3. npm install body-parser #Body Parser
+4. npm install faker #faker
+5. npm install knex #knex
+6. npm install pg #pg
